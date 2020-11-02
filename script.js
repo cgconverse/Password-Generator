@@ -19,3 +19,4 @@ var confirmUpperCase =confirm("Do you want to include upper case letters?")
 var confirmNumbers =confirm("Do you want to include numbers?")
 
 var confirmChar =confirm("Do you want to include special characters?")
+
